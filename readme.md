@@ -6,4 +6,4 @@
 
 方便即可
 
-[截图](https://github.com/frustreated/rename/blob/master/0.PNG)
+ ![image](https://github.com/frustreated/rename/blob/master/0.PNG)
