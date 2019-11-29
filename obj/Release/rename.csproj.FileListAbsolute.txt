@@ -1,0 +1,16 @@
+C:\Users\avboy\Desktop\rename\bin\Release\rename.exe.config
+C:\Users\avboy\Desktop\rename\bin\Release\rename.exe
+C:\Users\avboy\Desktop\rename\bin\Release\rename.pdb
+C:\Users\avboy\Desktop\rename\obj\Release\rename.Properties.Resources.resources
+C:\Users\avboy\Desktop\rename\obj\Release\rename.rename.resources
+C:\Users\avboy\Desktop\rename\obj\Release\rename.csproj.GenerateResource.cache
+C:\Users\avboy\Desktop\rename\obj\Release\rename.exe
+C:\Users\avboy\Desktop\rename\obj\Release\rename.pdb
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\bin\Release\rename.exe.config
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\bin\Release\rename.exe
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\bin\Release\rename.pdb
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\obj\Release\rename.Properties.Resources.resources
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\obj\Release\rename.rename.resources
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\obj\Release\rename.csproj.GenerateResource.cache
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\obj\Release\rename.exe
+C:\Users\avboy\Desktop\gitlab项目\base64-rename\obj\Release\rename.pdb
